@@ -6,7 +6,7 @@
 name: Mariusz Strzelecki
 
 # Short bio or description (displayed in the header)
-description: Big Data Engineer - Toruń, Poland
+description: Data Engineer - Toruń, Poland
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/4659069
@@ -66,7 +66,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: 'codehilite'
 
 # Set the Sass partials directory, as we're using @imports
 sass:
