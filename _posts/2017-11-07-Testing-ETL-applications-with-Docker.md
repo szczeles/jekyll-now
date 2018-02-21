@@ -17,7 +17,7 @@ If neither of above scenarios happened to you - trust me - sooner or later you w
 Start with listing dependencies of your ETL. These might be:
 
 * HDFS, as you use it to read or write the data
-* hadoop client library - a
+* hadoop client library -  
 
 
 
